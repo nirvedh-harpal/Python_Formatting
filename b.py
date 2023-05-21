@@ -1,5 +1,2 @@
-a = '''Lorem ipsum dolor sit amet,
-consectetur adipiscing elit,
-sed do eiusmod tempor incididunt
-ut labore et dolore magna aliqua.'''
-print(a)
+name = input("What is your name? ")  # Prompt the user for their name
+print("Hello, " + name + "!")  # Greet the user with their name
