@@ -1,2 +1,5 @@
-name = input("What is your name? ")
-print("Hello, " + name + "!")
+a = '''Lorem ipsum dolor sit amet,
+consectetur adipiscing elit,
+sed do eiusmod tempor incididunt
+ut labore et dolore magna aliqua.'''
+print(a)
